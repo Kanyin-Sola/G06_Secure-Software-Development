@@ -7,8 +7,8 @@ The purpose of our project is to apply software development principles by analys
 
 ## Group Members
 - **Kanyinsola Fakehinde - FAK22558601**
-- **Niloofar Thaha - THA**
-- **Piranavan Ratnarajah - RAT**
+- **Niloofar Thaha - THA21540701**
+- **Piranavan Ratnarajah - RAT22528167** 
 
 ## Case Studies
 We will be using the following case studies for our project:
